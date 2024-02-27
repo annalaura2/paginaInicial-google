@@ -1,4 +1,4 @@
-# paginaInicial-google
+# Página Inicial Google
 
 ## Descrição
 Mini projeto de interface da página de pesquisa do Google. Esse mini projeto foi criado durante meus estudos de aprendizagem e aprimoramente das tecnologias envolvidas. Ainda é necessário ajustar o footer, pois os links não estão sendo ajustado corretamente conforme o ajuste da página.
