@@ -9,3 +9,4 @@ Para este mini projeto, foram utilizadas as tecnologias HTML, CSS e JavaScript. 
 ## Imagens e Link
 
 [Google]( )
+![image](https://github.com/annalaura2/paginaInicial-google/assets/117537124/385a01bb-3e29-488d-9832-291e7ca92d64)
